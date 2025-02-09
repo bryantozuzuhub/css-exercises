@@ -1,0 +1,21 @@
+.cocaine,
+.quarter,
+.heroin {
+    background-color: rgb(250, 198, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#chrome {
+    color: blue;
+    font-size: 36px;
+}
+
+.quarter {
+    font-size: 24px;
+}
+
+#titanium {
+    background-color: rgb(141, 243, 141);
+    font-size: 24px;
+    font-weight: bold;
+}
